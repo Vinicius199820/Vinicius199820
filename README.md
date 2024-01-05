@@ -17,7 +17,6 @@ Me chamo Vinicius Targino, tenho 25 anos e trabalho com tecnologia a 5 anos. Atu
 </div>
 <div style="display: flex;" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius199820&layout=compact&theme=graywhite&hide_border=true" width="313" />
-    ![Snake animation](https://github.com/Vinicius199820/Vinicius199820/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <!--
