@@ -1,8 +1,14 @@
 ### Olá 👋
 
 Me chamo Vinicius Targino, tenho 25 anos e trabalho com tecnologia a 5 anos. Atualmente sou estudante de programação. 😄<br>
+<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Javascript_on_figma.png/640px-Javascript_on_figma.png" width="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png" width="50px">
+<br>
+<h1>Como me encontrar?</h1>
+<a href="https://www.linkedin.com/in/vinicius-targino-226402167" alt="instagram" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-targino-226402167">
+</a>
 <!--
 
 Here are some ideas to get you started:
