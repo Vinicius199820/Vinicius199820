@@ -11,7 +11,9 @@ Me chamo Vinicius Targino, tenho 25 anos e trabalho com tecnologia a 5 anos. Atu
 </a><br>
 <a>Vinicius.targino98@Outlook.com
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a>
+</a><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius199820&layout=compact)](https://github.com/Vinicius199820/github-readme-stats)
+
 <!--
 
 Here are some ideas to get you started:
