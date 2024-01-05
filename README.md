@@ -14,11 +14,9 @@ Me chamo Vinicius Targino, tenho 25 anos e trabalho com tecnologia a 5 anos. Atu
 <a href="https://www.linkedin.com/in/vinicius-targino-226402167" alt="instagram" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-targino-226402167">
 </a><br>
-<a>Vinicius.targino98@Outlook.com
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a><br>
+<p></p>Vinicius.targino98@Outlook.com</p>
 </div>
-<div align="center">
+<div style="display: flex;" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius199820&layout=compact&theme=graywhite&hide_border=true" width="313" />
 </div>
 
