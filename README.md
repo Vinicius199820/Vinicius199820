@@ -2,7 +2,7 @@
 
 Me chamo Vinicius Targino, tenho 25 anos e trabalho com tecnologia a 5 anos. Atualmente sou estudante de programação. 😄
 
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">;
+<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg.png" width="50px">;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png" width="50px">;
 <!--
 
