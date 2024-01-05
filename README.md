@@ -1,7 +1,6 @@
 <div style="display: flex;">### Olá 👋
 
 Me chamo Vinicius Targino, tenho 25 anos e trabalho com tecnologia a 5 anos. Atualmente sou estudante de programação. 😄<br>
-<br>
 <h3>Languages</h3>
 <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=700f0a" height="16" />
 <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=4e0b1e" height="16" />
@@ -16,7 +15,7 @@ Me chamo Vinicius Targino, tenho 25 anos e trabalho com tecnologia a 5 anos. Atu
 </a><br>
 <p></p>Vinicius.targino98@Outlook.com</p>
 </div>
-<div style="display: flex;" align="center">
+<div style="display: flex;" align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius199820&layout=compact&theme=graywhite&hide_border=true" width="313" />
 </div>
 
