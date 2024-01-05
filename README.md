@@ -1,4 +1,4 @@
-### Olá 👋
+<div style="display: flex;">### Olá 👋
 
 Me chamo Vinicius Targino, tenho 25 anos e trabalho com tecnologia a 5 anos. Atualmente sou estudante de programação. 😄<br>
 <br>
@@ -17,6 +17,7 @@ Me chamo Vinicius Targino, tenho 25 anos e trabalho com tecnologia a 5 anos. Atu
 <a>Vinicius.targino98@Outlook.com
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a><br>
+</div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius199820&layout=compact&theme=graywhite&hide_border=true" width="313" />
 </div>
