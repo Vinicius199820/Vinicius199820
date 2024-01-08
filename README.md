@@ -5,6 +5,7 @@ Me chamo Vinicius Targino, tenho 25 anos e trabalho com tecnologia a 5 anos. Atu
 <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=700f0a" height="16" />
 <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=4e0b1e" height="16" />
 <img src="https://img.shields.io/badge/PYTHON-%20?style=flat-square&logo=python&logoColor=white&color=130342" height="16"/>
+<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" height="16"/>
 <br>
 <h3>Frameworks</h3>
 <img src="https://img.shields.io/badge/BOOTSTRAP-%20?style=flat-square&logo=bootstrap&logoColor=white&color=3d0829" height="16" />
