@@ -1,6 +1,6 @@
 <div style="display: flex;"><h1>### Olá 👋</h1>
 
-<h2>Me chamo Vinicius Targino, tenho 25 anos e trabalho com tecnologia a 5 anos. Atualmente sou estudante de programação. 😄</h2><br>
+<h2>Me chamo Vinicius Targino, tenho 25 anos e trabalho com tecnologia a 5 anos. Atualmente sou estudante de programação. 😄</h2>
 <h3>Languages</h3>
 <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=700f0a" height="16" />
 <img src="https://img.shields.io/badge/CSS3-%20?style=flat-square&logo=css3&logoColor=white&color=4e0b1e" height="16" />
