@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/BOOTSTRAP-%20?style=flat-square&logo=bootstrap&logoColor=white&color=3d0829" height="16" />
 <img src="https://img.shields.io/badge/VUE.JS-%20?style=flat-square&logo=vue.js&logoColor=white&color=550b1a" height="16" />
 <h2>Como me encontrar?</h2>
-<a href="https://www.linkedin.com/in/vinicius-targino-226402167" alt="instagram" target="_blank">
+<a href="https://www.linkedin.com/in/vinicius-tagino-226402167?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" alt="instagram" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-targino-226402167">
 </a><br>
 <p></p>Vinicius.targino98@Outlook.com</p>
